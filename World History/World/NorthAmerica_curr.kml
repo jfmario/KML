@@ -2656,64 +2656,6 @@
 		</MultiGeometry>
 	</Placemark>
 
-<!--
-
-Canada: ffffff,000058
-United States: ff0000,ffffff
-Iroquois: 484838,88d0ff
-Souix: 203038,e0f848
-Aztecs, Mexico: 102088,d8ef8c
-Maya,Guatemala: 70a0d0,504820
-
-Inca, Peru: 20b0ff,90b018
-Brazil: 00ffaf,004f00
-
-Celts, Ireland: 105010,ffa0a0
-England: 000058,ffffff
-Portugal: ffffff,ff0000
-Spain: 202068,b8b8ff
-Gauls, Franks, France: ff7830,a0f0f0
-
-Sweden: 502018,78ffff
-Vikings, Denmark: 103050,90c0e0
-Dutch,Netherlands: 28c0ff,ffffff
-Barbarians,Teutons,Germany: b0a0a0,384038
-Rome,Catholicism: 700040,18d8f8
-Venice, Italy: 901850,ffffff
-
-Poland: 0000f0,202060
-Russia: 18d8f8,000000
-
-Austria: 0000ff,ffffff
-Greece: ffffff,cc9900
-Byzantium, Eastern Orthodoxy: e89058,6f003f
-Hitites,Ottomans,Turkey: ffffff,004f00
-
-Huns,Kazakh: e0e0e8,181060
-
-Egypt: 10e0f0,c01060
-Islamic Caliphates, Saudi Arabia: 004f00,00ffaf
-Assyria, Syria: ffffff,7fffff
-Babylon, Iraq: 504820,fff0d0
-
-Morocco: 000070,60c038
-Phoenicia, Carthage,Lebanon: bbbbbb,900058
-Songhai, Mali: 108020,201078
-Sheba, Ethiopia: 183818,2020ff
-Zulu, South Africa: 406098,ffffff
-
-Persia, Iran: 00d0ff,0000ff
-India: 107810,48b0ff
-Mongols, Mongolia: 000040,0078ff
-China: 409000,ffffff
-Korea, SouthKorea: ff0000,0000ff
-Japan: ffffff,0000ff
-Siam, Thailand: 7bffff,0000ff
-Indonesia: d8d058,2030a8
-Polynesia: 0050d8,80ffff (Fiji)
-
--->
-
 </Document>
 </kml>
 
